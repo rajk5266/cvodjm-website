@@ -1,0 +1,200 @@
+{
+  "mainMenu": [
+    {
+      "title": "Home",
+      "href": "/",
+      "type": "single"
+    },
+
+    {
+      "title": "About Us",
+      "href": "#",
+      "type": "dropdown",
+      "children": [
+        {
+          "title": "Achalgachh",
+          "href": "#",
+          "type": "dropdown",
+          "children": [
+            {
+              "title": "Know your Achalgachh",
+              "href": "/achalgachh/know-your-achalgachh"
+            },
+            {
+              "title": "MS Details",
+              "href": "/achalgachh/ms-details"
+            },
+            {
+              "title": "MS Chaturmas",
+              "href": "/achalgachh/ms-chaturmas"
+            }
+          ]
+        },
+        {
+          "title": "CVODJM",
+          "href": "#",
+          "type": "dropdown",
+          "children": [
+            {
+              "title": "About Mahajan",
+              "href": "/cvodjm/about-mahajan"
+            },
+            {
+              "title": "Trustees",
+              "href": "#",
+              "type": "dropdown",
+              "children": [
+                {
+                  "title": "Trustees (Static Page)",
+                  "href": "/cvodjm/trustees/static"
+                },
+                {
+                  "title": "Trustees (Dynamic Content)",
+                  "href": "/cvodjm/trustees/dynamic"
+                }
+              ]
+            },
+            {
+              "title": "Managing Committee",
+              "href": "/cvodjm/managing-committee"
+            },
+            {
+              "title": "Other Committee",
+              "href": "/cvodjm/other-committee"
+            },
+            {
+              "title": "History & Heritage",
+              "href": "/cvodjm/history-heritage"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Events & Activities",
+      "href": "#",
+      "type": "dropdown",
+      "children": [
+        {
+          "title": "Upcoming Events",
+          "href": "/events/upcoming"
+        },
+        {
+          "title": "Past Activities / Highlights",
+          "href": "/events/past"
+        },
+        {
+          "title": "Seva Initiatives",
+          "href": "#",
+          "type": "dropdown",
+          "children": [
+            {
+              "title": "Blood Donation Camps",
+              "href": "/events/seva/blood-donation"
+            },
+            {
+              "title": "Food Drives",
+              "href": "/events/seva/food-drives"
+            },
+            {
+              "title": "Tree Plantation",
+              "href": "/events/seva/tree-plantation"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "Centres & Community",
+      "href": "#",
+      "type": "dropdown",
+      "children": [
+        {
+          "title": "Achalgachh Centres",
+          "href": "/centres/achalgachh"
+        },
+        {
+          "title": "Rising Star Projects (RSP)",
+          "href": "#",
+          "type": "dropdown",
+          "children": [
+            {
+              "title": "Why Choose RSP",
+              "href": "/rsp/why-choose"
+            },
+            {
+              "title": "Activities at RSP",
+              "href": "/rsp/activities"
+            },
+            {
+              "title": "Locations",
+              "href": "/rsp/locations"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "52/42 Ghaam",
+      "href": "/gham",
+      "type": "single"
+    },
+
+    {
+      "title": "Gallery & Media",
+      "href": "#",
+      "type": "dropdown",
+      "children": [
+        {
+          "title": "Photo Gallery",
+          "href": "/gallery/photos"
+        },
+        {
+          "title": "Video Gallery",
+          "href": "/gallery/videos"
+        },
+        {
+          "title": "Downloads",
+          "href": "/downloads"
+        }
+      ]
+    },
+
+    {
+      "title": "Get Involved / Donate",
+      "href": "#",
+      "type": "dropdown",
+      "children": [
+        {
+          "title": "Support & Donate",
+          "href": "/donate"
+        },
+        {
+          "title": "Volunteer With Us",
+          "href": "/volunteer"
+        },
+        {
+          "title": "Membership / Join Community",
+          "href": "/membership"
+        }
+      ]
+    },
+
+    {
+      "title": "Contact Us",
+      "href": "/contact",
+      "type": "single"
+    }
+  ],
+
+  "userMenu": [
+    { "title": "Profile", "href": "/profile", "icon": "user" },
+    { "title": "Download Today's Patrika", "href": "/downloads/todays-patrika", "icon": "file-text" },
+    { "title": "Settings", "href": "/settings", "icon": "settings" },
+    { "title": "Login", "href": "/login", "icon": "log-in" },
+    { "title": "Logout", "href": "/logout", "icon": "log-out" }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Events & Activities",
+  "subtitle": "Where Every Event Becomes a Celebration of Faith.",
+  "exploreCTA": {
+    "label": "Explore All Events",
+    "href": "activities"
+  },
+  "activities": [
+    {
+      "id": 1,
+      "name": "Youth Empowerment",
+      "type": "Educational",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=300&fit=crop",
+      "summary": "Guiding the next generation to learn, lead, and contribute.",
+      "description": "Our Pathshala program provides comprehensive spiritual education combining traditional teachings with modern learning methods. Students learn about our rich heritage, values, and spiritual practices.",
+      "color": "from-blue-500 to-blue-600"
+    },
+    {
+      "id": 2,
+      "name": "Community Service",
+      "type": "Spiritual",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+      "summary": "Extending care through relief, social initiatives, and everyday kindness.",
+      "description": "Join our weekly Satsang sessions for spiritual discourse, meditation, and connecting with fellow community members. Experience inner peace and spiritual growth.",
+      "color": "from-purple-500 to-purple-600"
+    },
+    {
+      "id": 3,
+      "name": "Health & Wellness",
+      "type": "Cultural",
+      "image": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=400&h=300&fit=crop",
+      "summary": "Spreading awareness with medical camps, yoga, and healthy living programmes.",
+      "description": "Experience vibrant cultural events that celebrate our traditions and bring the community together in joy. From festivals to cultural performances, we celebrate our heritage.",
+      "color": "from-orange-500 to-red-600"
+    },
+    {
+      "id": 4,
+      "name": "Cultural & Spiritual Events",
+      "type": "Educational",
+      "image": "https://images.unsplash.com/photo-1544717297-fa95b6ee9643?w=400&h=300&fit=crop",
+      "summary": "Celebrating traditions with pride and faith.",
+      "description": "Specialized programs that engage youth in meaningful activities while teaching important life values. Leadership development, sports, and creative activities for holistic growth.",
+      "color": "from-green-500 to-green-600"
+    },
+    {
+      "id": 5,
+      "name": "Learning & Growth",
+      "type": "Service",
+      "image": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=400&h=300&fit=crop",
+      "summary": "Encouraging education, skills, and opportunities for the future.",
+      "description": "Participate in community service activities that make a positive impact. From helping the elderly to environmental initiatives, we serve with compassion.",
+      "color": "from-teal-500 to-teal-600"
+    }
+  ]
+}

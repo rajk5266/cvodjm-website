@@ -1,0 +1,15 @@
+{
+  "aboutSamaj": {
+    "title": "About the Samaj",
+    "tagline": "Rooted in Jain values, our community stands for compassion, service, and harmony.",
+    "description": "Rooted in the timeless teachings of Jain philosophy, our Samaj stands as a symbol of compassion, harmony, and service. Through collective effort, we nurture unity, preserve our traditions, and guide future generations toward a path of peace.",
+    "cta": {
+      "label": "Know More →",
+      "href": "about"
+    },
+    "banner": {
+      "image": "/images/about-samaj-banner.jpg",
+      "alt": "Community banner representing unity and Jain values"
+    }
+  }
+}

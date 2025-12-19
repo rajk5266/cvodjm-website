@@ -1,0 +1,33 @@
+{
+  "visionValues": {
+    "title": "Our Vision & Values",
+    "description": "These core values guide our actions, shape our community, and define the spirit of our samaj.",
+    "values": [
+      {
+        "title": "Ahimsa (Non-Violence)",
+        "description": "Peace begins with every thought and action.",
+        "icon": "leaf"
+      },
+      {
+        "title": "Seva (Service)",
+        "description": "Selfless giving is our way of life.",
+        "icon": "handshake"
+      },
+      {
+        "title": "Ekta (Unity)",
+        "description": "Together, we are stronger as one samaj.",
+        "icon": "users"
+      },
+      {
+        "title": "Shiksha (Education)",
+        "description": "Knowledge is the foundation of faith.",
+        "icon": "book-open"
+      },
+      {
+        "title": "Karuna (Compassion)",
+        "description": "Love and kindness guide our every step.",
+        "icon": "heart"
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "banners": [
+    {
+      "title": "Building Bonds, Celebrating Traditions, Creating Tomorrow.",
+      "subtitle": "A community where culture, unity, and care come together.",
+      "cta": "Get Involved",
+      "banner_image": "/images/1.jpg"
+    },
+    {
+      "title": "Together in service, together in spirit.",
+      "cta": "Get Involved",
+      "banner_image": "/images/1.jpg"
+    },
+    {
+      "title": "From youth events to cultural festivals, every activity brings us closer.",
+      "cta": "Get Involved",
+      "banner_image": "/images/5.jpg"
+    },
+    {
+      "title": "Preserving values, shaping the future.",
+      "cta": "Get Involved",
+      "banner_image": "/images/3.jpg"
+    },
+    {
+      "title": "Wellness, education, culture, service, our activities unite all generations.",
+      "cta": "Get Involved",
+      "banner_image": "/images/3.jpg"
+    }
+  ]
+}

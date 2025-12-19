@@ -1,0 +1,200 @@
+{
+  "mainMenu": [
+    {
+      "title": "હોમ",
+      "href": "/",
+      "type": "single"
+    },
+
+    {
+      "title": "અમારા વિષે",
+      "href": "#",
+      "type": "dropdown",
+      "children": [
+        {
+          "title": "અચલગચ્છ",
+          "href": "#",
+          "type": "dropdown",
+          "children": [
+            {
+              "title": "તમારા અચલગચ્છને જાણો",
+              "href": "/achalgachh/know-your-achalgachh"
+            },
+            {
+              "title": "MS વિગતો",
+              "href": "/achalgachh/ms-details"
+            },
+            {
+              "title": "MS ચાતુરમાસ",
+              "href": "/achalgachh/ms-chaturmas"
+            }
+          ]
+        },
+        {
+          "title": "CVODJM",
+          "href": "#",
+          "type": "dropdown",
+          "children": [
+            {
+              "title": "મહાજન વિષે",
+              "href": "/cvodjm/about-mahajan"
+            },
+            {
+              "title": "ટ્રસ્ટીઓ",
+              "href": "#",
+              "type": "dropdown",
+              "children": [
+                {
+                  "title": "ટ્રસ્ટીઓ (સ્થિર પેજ)",
+                  "href": "/cvodjm/trustees/static"
+                },
+                {
+                  "title": "ટ્રસ્ટીઓ (ડાયનેમિક કન્ટેન્ટ)",
+                  "href": "/cvodjm/trustees/dynamic"
+                }
+              ]
+            },
+            {
+              "title": "મેનેજિંગ સમિતિ",
+              "href": "/cvodjm/managing-committee"
+            },
+            {
+              "title": "અન્ય સમિતિ",
+              "href": "/cvodjm/other-committee"
+            },
+            {
+              "title": "ઇતિહાસ અને વારસા",
+              "href": "/cvodjm/history-heritage"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "પ્રોગ્રામ્સ અને પ્રવૃત્તિઓ",
+      "href": "#",
+      "type": "dropdown",
+      "children": [
+        {
+          "title": "આગામી કાર્યક્રમો",
+          "href": "/events/upcoming"
+        },
+        {
+          "title": "ભૂતકાળની પ્રવૃત્તિઓ / મુખ્ય ક્ષણો",
+          "href": "/events/past"
+        },
+        {
+          "title": "સેવા પહેલ",
+          "href": "#",
+          "type": "dropdown",
+          "children": [
+            {
+              "title": "રક્તદાન કેમ્પ",
+              "href": "/events/seva/blood-donation"
+            },
+            {
+              "title": "અન્નદાન / ફૂડ ડ્રાઇવ",
+              "href": "/events/seva/food-drives"
+            },
+            {
+              "title": "વૃક્ષારોપણ",
+              "href": "/events/seva/tree-plantation"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "કેન્દ્રો અને સમાજ",
+      "href": "#",
+      "type": "dropdown",
+      "children": [
+        {
+          "title": "અચલગચ્છ કેન્દ્રો",
+          "href": "/centres/achalgachh"
+        },
+        {
+          "title": "રાઈઝિંગ સ્ટાર પ્રોજેક્ટ્સ (RSP)",
+          "href": "#",
+          "type": "dropdown",
+          "children": [
+            {
+              "title": "RSP કેમ પસંદ કરવું?",
+              "href": "/rsp/why-choose"
+            },
+            {
+              "title": "RSP પ્રવૃત્તિઓ",
+              "href": "/rsp/activities"
+            },
+            {
+              "title": "સ્થાનો",
+              "href": "/rsp/locations"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "title": "૫૨/૪૨ ગામ",
+      "href": "/gham",
+      "type": "single"
+    },
+
+    {
+      "title": "ગેલેરી અને મીડિયા",
+      "href": "#",
+      "type": "dropdown",
+      "children": [
+        {
+          "title": "ફોટો ગેલેરી",
+          "href": "/gallery/photos"
+        },
+        {
+          "title": "વિડિઓ ગેલેરી",
+          "href": "/gallery/videos"
+        },
+        {
+          "title": "ડાઉનલોડ્સ",
+          "href": "/downloads"
+        }
+      ]
+    },
+
+    {
+      "title": "જોડાઓ / દાન કરો",
+      "href": "#",
+      "type": "dropdown",
+      "children": [
+        {
+          "title": "સમર્થન અને દાન",
+          "href": "/donate"
+        },
+        {
+          "title": "સેવક બનો",
+          "href": "/volunteer"
+        },
+        {
+          "title": "સભ્યતા / સમુદાયમાં જોડાઓ",
+          "href": "/membership"
+        }
+      ]
+    },
+
+    {
+      "title": "અમારો સંપર્ક કરો",
+      "href": "/contact",
+      "type": "single"
+    }
+  ],
+
+  "userMenu": [
+    { "title": "પ્રોફાઇલ", "href": "/profile", "icon": "user" },
+    { "title": "આજની પત્રિકા ડાઉનલોડ કરો", "href": "/downloads/todays-patrika", "icon": "file-text" },
+    { "title": "સેટિંગ્સ", "href": "/settings", "icon": "settings" },
+    { "title": "લૉગિન", "href": "/login", "icon": "log-in" },
+    { "title": "લૉગઆઉટ", "href": "/logout", "icon": "log-out" }
+  ]
+}

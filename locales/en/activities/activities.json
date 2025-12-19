@@ -1,0 +1,89 @@
+{
+  "page": {
+    "title": "Activities"
+  },
+  "intro": {
+    "title": "Our Activities",
+    "description": "At Deravasi Mahajan, activities are not just yearly programmes — they are continuous efforts to preserve traditions, strengthen unity, and serve society. Each initiative reflects our values of seva, sahyog and sanskriti."
+  },
+  "communication": {
+    "title": "Communication & Awareness",
+    "items": [
+      {
+        "title": "Sanghbhavana Newsletter",
+        "description": "A regular publication to share news, updates, and inspiring stories with the community."
+      },
+      {
+        "title": "Central Mediation Committee",
+        "description": "Guidance for families, resolving disputes, and counselling youth in choosing life partners."
+      }
+    ]
+  },
+  "health": {
+    "title": "Health & Well-being",
+    "items": [
+      {
+        "title": "Health Awareness Camps",
+        "description": "Medical check-ups, senior citizen camps, yoga sessions and seminars for a healthier society."
+      },
+      {
+        "title": "Sports Activities",
+        "description": "Events like throwball tournaments, marathons, and fitness drives to encourage unity and physical well-being."
+      }
+    ]
+  },
+  "youth_education": {
+    "title": "Youth & Education",
+    "items": [
+      {
+        "title": "Scholarships and Grants",
+        "description": "Financial support for higher studies and professional courses."
+      },
+      {
+        "title": "Skill Development",
+        "description": "Seminars, entrepreneur workshops, Spell Bee competitions, and personality development sessions for students."
+      },
+      {
+        "title": "Bherpo",
+        "description": "A platform for children, youth and elders to display their talents in art, culture and literature."
+      }
+    ]
+  },
+  "social_responsibility": {
+    "title": "Social Responsibility",
+    "items": [
+      {
+        "title": "Support for Differently-Abled Children",
+        "description": "Initiatives to empower and include them in society."
+      },
+      {
+        "title": "Utkarsh Committee",
+        "description": "Providing financial aid, housing and business loans to families in need."
+      },
+      {
+        "title": "Relief Work",
+        "description": "Standing strong during floods, pandemics and other crises with food, medicines, testing facilities and business revival loans."
+      }
+    ]
+  },
+  "faith_culture": {
+    "title": "Faith & Culture",
+    "items": [
+      {
+        "title": "Publishing Jain Literature",
+        "description": "Publishing Jain booklets and literature for spiritual awareness."
+      },
+      {
+        "title": "Celebrating Festivals",
+        "description": "Organising discourses and cultural events to preserve our heritage."
+      }
+    ]
+  },
+  "charity": {
+    "title": "Charity & Giving",
+    "description": "Support through Jivdaya donations, Bhagirath schemes, educational funds and Devdravya contributions, ensuring help reaches where it is needed most."
+  },
+  "conclusion": {
+    "description": "Every activity is a step towards a stronger, healthier and united community."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "faqs": [
+    {
+           "id": 1,
+      "question": "How can I join the community?",
+      "answer": "Simply register through our membership form and be part of our growing family."
+    },
+    {
+           "id": 2,
+      "question": "Do you organise events regularly?",
+      "answer": "Yes, we host cultural, spiritual, and social events throughout the year for all age groups."
+    },
+    {
+           "id": 3,
+      "question": "Do I need to be from a specific background to join?",
+      "answer": "No, everyone who believes in unity and service is welcome."
+    },
+    {
+           "id": 4,
+      "question": "How can I contribute?",
+      "answer": "You can volunteer, donate, or simply participate in our events."
+    },
+    {
+           "id": 5,
+      "question": "Are there programmes for youth and children?",
+      "answer": "Yes, we organise youth gatherings, workshops, and leadership programmes."
+    },
+    {
+           "id": 6,
+      "question": "How will I benefit by joining?",
+      "answer": "You’ll be part of a supportive community, find opportunities to serve, and carry traditions forward."
+    }
+  ]
+}

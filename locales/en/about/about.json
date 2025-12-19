@@ -1,0 +1,65 @@
+{
+  "page": {
+    "title": "About Us"
+  },
+  "who_we_are": {
+    "title": "Who We Are",
+    "description": "The Deravasi Mahajan community emerged nearly two centuries ago when members of the Kutchi Visa Oswal Jain community settled in South Mumbai. Their unity and shared values laid the foundation for a strong community."
+  },
+  "what_we_do": {
+    "title": "What We Do",
+    "description": "We serve through a blend of spiritual, social, and educational initiatives that promote Jain values and uplift lives. Together, we strengthen religious practices, provide cultural guidance, and support social and economic welfare for our community."
+  },
+  "our_journey": {
+    "title": "Our Journey",
+    "content": [
+      {
+        "description1": "The roots of Deravasi Mahajan go back several generations, when visionary leaders came together with wisdom and courage. Over the years, the Mahajan has grown not only in numbers but also in purpose – from supporting families in times of need to organising festivals, building temples, and creating opportunities for learning and growth.",
+        "description2": "This journey is not just history; it is a living example of what a united community can achieve when faith and service go hand in hand."
+      }
+    ]
+  },
+  "our_values": {
+    
+    "items": [
+      {
+        "title": "Faith",
+        "description": "Deep belief in Jain traditions and teachings."
+      },
+      {
+        "title": "Faith",
+        "description": "Deep belief in Jain traditions and teachings."
+      },
+      {
+        "title": "Faith",
+        "description": "Deep belief in Jain traditions and teachings."
+      },
+      {
+        "title": "Faith",
+        "description": "Deep belief in Jain traditions and teachings."
+      }
+    ]
+  },
+  "organised": {
+    "title": "How We're Organised",
+    "description": "To improve our reach and effectiveness across Mumbai, independent committees were formed, led by trustees, volunteers, and community leaders. This structure allows us to work better, stay focused, and serve with purpose."
+  },
+  "landmarks": {
+    "title": "Our Landmarks – Hubs of Heritage & Service",
+    "description": "Our legacy continues through community centres that inspire and support:",
+    "items": [
+      "Aadeshwar Jin Temple, Bhat Bazar",
+      "Deravasi Mahajanwadi",
+      "Jiravalla Parshwanath Jin Temple, Ghatkopar",
+      "Sushilaben Devchand Pasad (Nagrecha) Guest House",
+      "Suvidhinath Jin Temple, Lalbaug",
+      "Adinath Jin Temple, Kutchi Bhavan, Palitana",
+      "Orchid The International School (KVOS Jain High School), Palagamle",
+      "KVOS Medical Center"
+    ]
+  },
+  "cta": {
+    "title": "Looking Ahead",
+    "description": "We remain committed to preserving our values—service, unity, and culture—just as our founders did. Today, we continue to nurture that tradition while inspiring upcoming generations to grow with pride, empathy, and connection."
+  }
+}

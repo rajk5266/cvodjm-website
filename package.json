@@ -1,0 +1,43 @@
+{
+  "name": "cvojm-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "i18next": "^25.4.2",
+    "jose": "^6.0.12",
+    "js-cookie": "^3.0.5",
+    "jwt-decode": "^4.0.0",
+    "lucide-react": "^0.534.0",
+    "next": "15.4.5",
+    "next-i18next": "^15.4.2",
+    "next-intl": "^4.3.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.62.0",
+    "react-i18next": "^15.7.3",
+    "react-simple-keyboard": "^3.8.106",
+    "react-toastify": "^11.0.5",
+    "simple-keyboard": "^3.8.75",
+    "zustand": "^5.0.6"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/google.accounts": "^0.0.17",
+    "@types/js-cookie": "^3.0.6",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.5",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

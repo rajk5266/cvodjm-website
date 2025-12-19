@@ -1,0 +1,36 @@
+{
+    "section": {
+        "title": "અમારી ઓળખનાં પળો",
+        "subtitle": "કાર્યક્રમો, પરંપરાઓ અને આનંદભરી ક્ષણો – જે અમને એકરૂપ બનાવે છે.",
+        "explore": {
+            "label": "ગેલેરી જુઓ ",
+            "href": "gallery"
+        }
+    },
+    "images": [
+        {
+            "id": 1,
+            "url": "https://images.unsplash.com/photo-1593642634367-d91a135587b5?w=800&h=600&fit=crop",
+            "title": "સમુદાય સભા",
+            "description": "અમારા સમુદાયના સભ્યોની સુંદર સભા."
+        },
+        {
+            "id": 2,
+            "url": "https://unsplash.com/photos/cute-indian-child-studying-at-home-kF3GSF0YHl0",
+            "title": "ઉત્સવ ઉજવણી",
+            "description": "અમારા વાર્ષિક સાંસ્કૃતિક ઉત્સવની ઉજવણી."
+        },
+        {
+            "id": 3,
+            "url": "https://unsplash.com/photos/cute-indian-child-studying-at-home-kF3GSF0YHl0",
+            "title": "સેવાકીય કાર્ય",
+            "description": "અમારા સ્વયંસેવકો સામાજિક સેવામાં જોડાય છે."
+        },
+        {
+            "id": 4,
+            "url": "https://source.unsplash.com/random/800x600?sig=14",
+            "title": "કાર્યશાળા સત્ર",
+            "description": "એક શૈક્ષણિક કાર્યશાળા ચાલી રહી છે."
+        }
+    ]
+}

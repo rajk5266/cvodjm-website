@@ -1,0 +1,12 @@
+{
+  "title": "Centres & Global Presence",
+  "subtitle": "Explore our community centres around the world.",
+  "banner": {
+    "image": "/images/centres-banner.jpg",
+    "alt": "Global map showing community centres"
+  },
+  "cta": {
+    "label": "Find a Centre Near You →",
+    "href": "centres"
+  }
+}

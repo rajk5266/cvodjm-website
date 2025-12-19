@@ -1,0 +1,48 @@
+{
+   "page": { "title": "Our Services" },
+    "intro": {
+      "title": "Our Services",
+      "description": "At Deravasi Mahajan, our services are built around one purpose — to serve our community with care, compassion, and commitment. Every initiative reflects the values of Jainism while addressing the spiritual, social, educational, and economic needs of our people."
+    },
+    "services": [
+      {
+        "key": "religious_services",
+        "title": "Religious Services",
+        "description": "We preserve and promote Jain traditions through the management of temples, organisation of festivals, and distribution of religious literature. From daily rituals to annual celebrations, these services keep faith alive and strengthen spiritual bonds."
+      },
+      {
+        "key": "educational_support",
+        "title": "Educational Support",
+        "description": "Education is a cornerstone of progress. We provide scholarships, grants, and resources to students, along with seminars, training sessions, and programmes that prepare youth for future opportunities. Initiatives like notebook distribution and skill-based workshops ensure every child and young adult has the tools to succeed."
+      },
+      {
+        "key": "healthcare_wellness",
+        "title": "Healthcare & Wellness",
+        "description": "Good health builds a strong society. We organise medical camps, yoga sessions, and health awareness seminars for all age groups. Senior citizen health camps and wellness programmes have touched the lives of thousands, promoting fitness and preventive care. During times of crisis, such as the COVID-19 pandemic, we extended medical assistance, testing facilities, and online consultations to our members."
+      },
+      {
+        "key": "financial_assistance",
+        "title": "Financial Assistance",
+        "description": "We stand by our members in difficult times. Through committees like the Utkarsh Samiti, we provide loans for housing, business support, and relief during emergencies. Whether it is a family in need or a small business owner seeking to recover, our financial services are a helping hand toward stability."
+      },
+      {
+        "key": "mediation_guidance",
+        "title": "Community Mediation & Guidance",
+        "description": "Our mediation services help resolve disputes related to family, marriage, and property with fairness and understanding. These efforts not only bring peace but also strengthen unity within the community."
+      },
+      {
+        "key": "social_initiatives",
+        "title": "Social Initiatives & Relief Work",
+        "description": "In times of natural calamities or social challenges, we mobilise resources for relief, food distribution, and rehabilitation. From flood relief to supporting livelihoods after crises, our services reflect solidarity in action."
+      },
+      {
+        "key": "cultural_youth",
+        "title": "Cultural & Youth Development",
+        "description": "Through events, workshops, and competitions, we provide platforms for children, youth, and adults to showcase their talents, learn, and grow. Activities like sports meets, marathons, and cultural programmes foster fitness, teamwork, and pride in traditions."
+      }
+    ],
+    "conclusion": {
+      "description": "Together, these services form the backbone of our community — nurturing faith, supporting progress, and ensuring no member feels left behind."
+    }
+  
+}
