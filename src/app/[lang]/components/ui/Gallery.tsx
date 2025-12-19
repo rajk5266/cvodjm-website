@@ -66,7 +66,6 @@ const CommunityGallery: React.FC<CommunityGalleryProps> = ({ content }) => {
               alt={images[currentIndex].title}
               width={400}
               height={300}
-            
               style={{ objectFit: "cover" }}
             />
           </div>
